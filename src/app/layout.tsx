@@ -1,5 +1,5 @@
-import Cabecalho from '@/components/Cabecalho/Cabecalho';
 import { Roboto } from 'next/font/google';
+import Cabecalho from '@/components/Cabecalho/Cabecalho';
 import "./globals.css";
 
 const roboto = Roboto({
@@ -9,11 +9,14 @@ const roboto = Roboto({
   display: 'swap'
 });
 
-export default function RootLayout({ children, }: Readonly<{ children: React.ReactNode; }>) {
-  
+export default function RootLayout({ 
+  children, 
+}: Readonly<{ 
+  children: React.ReactNode; 
+}>) {  
   return (
     <html lang="pt-BR">
-      <body>
+      <body className="">
         <Cabecalho />
         <div className={`${roboto.className} content-wrap`}>
           {children}

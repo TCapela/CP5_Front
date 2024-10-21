@@ -13,7 +13,8 @@ export default function Jupiter(){
 
                 Ao estudar as emissões de rádio de Júpiter, os cientistas podem obter informações valiosas sobre a composição atmosférica do planeta, a natureza de seu campo magnético e a interação entre Júpiter e suas luas. Essas informações são cruciais para entendermos melhor a formação e evolução dos planetas gigantes gasosos.<br />
 
-                Em resumo, as emissões de rádio de Júpiter são um fenômeno natural e fascinante que tem sido estudado por décadas. Ao contrário das teorias catastróficas de Velikovsky, a explicação científica atual, baseada em observações e modelos matemáticos, oferece uma visão mais precisa e completa desse fenômeno.</p>
+                Em resumo, as emissões de rádio de Júpiter são um fenômeno natural e fascinante que tem sido estudado por décadas. Ao contrário das teorias catastróficas de Velikovsky, a explicação científica atual, baseada em observações e modelos matemáticos, oferece uma visão mais precisa e completa desse fenômeno.
+            </p>
     </div>
     )
 }
